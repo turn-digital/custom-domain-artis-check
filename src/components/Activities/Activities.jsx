@@ -10,7 +10,11 @@ const OverviewBlock = ({ title, content, activitiesAlt, anchorName, urls }) => {
         <h3 className="activities__title title titlePadding">{title}</h3>
         <ul className="activities__list">
           <li className="activities__item">
-            <a className="activities__link" href={pasakumuUrl}></a>
+            <a
+              className="activities__link"
+              href={pasakumuUrl}
+              aria-label={content.organiser}
+            ></a>
             <div
               className={`${
                 true
@@ -34,7 +38,11 @@ const OverviewBlock = ({ title, content, activitiesAlt, anchorName, urls }) => {
             <h4 className="activities__section">{content.organiser}</h4>
           </li>
           <li className="activities__item">
-            <a className="activities__link" href={moderatorUrl}></a>
+            <a
+              className="activities__link"
+              href={moderatorUrl}
+              aria-label={content.moderator}
+            ></a>
             <div
               className={`${
                 true
@@ -58,7 +66,11 @@ const OverviewBlock = ({ title, content, activitiesAlt, anchorName, urls }) => {
             <h4 className="activities__section">{content.moderator}</h4>
           </li>
           <li className="activities__item">
-            <a className="activities__link" href={radioUrl}></a>
+            <a
+              className="activities__link"
+              href={radioUrl}
+              aria-label={content.radio}
+            ></a>
             <div
               className={`${
                 true

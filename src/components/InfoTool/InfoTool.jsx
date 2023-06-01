@@ -109,6 +109,7 @@ const InfoTool = (props) => {
             target="_blank"
             rel="noopener noreferrer"
             className="info-tool__fb-link"
+            aria-label="Facebook Messenger"
           >
             <IconMessenger />
           </a>

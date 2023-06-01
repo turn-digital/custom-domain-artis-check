@@ -11,12 +11,20 @@ const Footer = (footerInfo) => {
           <div className="footer__info">
             <ul className="footer__item footer__item--links">
               <li>
-                <a href={`tel:${phone}`} className="footer__link">
+                <a
+                  href={`tel:${phone}`}
+                  className="footer__link"
+                  area-label="Phone"
+                >
                   {phone}
                 </a>
               </li>
               <li>
-                <a href={`mailTo:${email}`} className="footer__link">
+                <a
+                  href={`mailTo:${email}`}
+                  className="footer__link"
+                  area-label="Email"
+                >
                   {email}
                 </a>
               </li>
@@ -28,6 +36,7 @@ const Footer = (footerInfo) => {
                   target="_blank"
                   rel="noopener noreferrer"
                   className="footer__soc footer__soc--fb"
+                  aria-label="Facebook"
                 >
                   <SvgIcon icon="fb-icon" />
                 </a>
@@ -38,6 +47,7 @@ const Footer = (footerInfo) => {
                   target="_blank"
                   rel="noopener noreferrer"
                   className="footer__soc footer__soc--in"
+                  aria-label="Linkedin"
                 >
                   <SvgIcon icon="in-icon" />
                 </a>
