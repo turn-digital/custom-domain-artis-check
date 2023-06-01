@@ -1,0 +1,35 @@
+@import "reset";
+@import "variables";
+@import "fonts";
+@import "grid-settings";
+@import "mixins";
+@import "global";
+@import "language";
+
+@import "../components/Activities/activities";
+@import "../components/ArticleCard/articleCard";
+@import "../components/Button/button";
+@import "../components/Clients/clients";
+@import "../components/Footer/footer";
+@import "../components/Hero/hero";
+@import "../components/InfoTool/infoTool";
+@import "../components/Overview/overview";
+@import "../components/Reviews/reviews";
+@import "../components/Slider/slider";
+@import "../components/SliderSimple/sliderSimple";
+
+@import "./pages/notfound";
+
+img {
+  max-width: 100%;
+}
+
+.page {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+
+  &__content {
+    flex: 1;
+  }
+}

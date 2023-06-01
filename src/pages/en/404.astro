@@ -1,0 +1,21 @@
+---
+import "~styles/style.scss";
+import Layout from "../../components/Layout/Layout";
+// import Hero from "../../components/Hero/Hero.astro";
+import { t, changeLanguage } from "i18next";
+
+changeLanguage("en");
+
+const footerInfo = {
+    title: t("index.Footer_Title_Index"),
+    phone: t("index.Footer_Phone_Index"),
+    email: t("index.Footer_Email_Index"),
+    fbLink: t("index.Footer_FbLink_Index"),
+    fbInLink: t("index.Footer_InLink_Index"),
+};
+---
+
+<Layout footerInfo={footerInfo} headerInfo={"/radio-personiba"}>
+  {t("index.Footer_Title_Index")}
+  <a href="/">go home</a>
+</Layout>

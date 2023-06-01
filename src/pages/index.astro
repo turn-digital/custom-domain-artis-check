@@ -1,0 +1,65 @@
+---
+import "~styles/style.scss";
+import Layout from "../components/Layout/Layout";
+import Hero from "../components/Hero/Hero.astro";
+import Overview from "../components/Overview/Overview";
+import Clients from "../components/Clients/Clients";
+import Activities from "../components/Activities/Activities";
+import { t, changeLanguage } from "i18next";
+
+changeLanguage("lv");
+
+const heroInfo = {
+    subtitle: t("index.Home_Hero_Subtitle"),
+    title: t("index.Home_Hero_Title"),
+    content: t("index.Home_Hero_Content"),
+    heroTitle: t("index.Hero_title"),
+    heroPhone: t("index.Hero_Phone"),
+    heroEmail: t("index.Hero_Emai"),
+    heroMessengerPageUrl: t("index.Hero_Messenger_Page_Url"),
+    arrowTitle: t("index.Arrow_Title"),
+    anchorName: t("index.Anchor_Name"),
+};
+const footerInfo = {
+    title: t("index.Footer_Title_Index"),
+    phone: t("index.Footer_Phone_Index"),
+    email: t("index.Footer_Email_Index"),
+    fbLink: t("index.Footer_FbLink_Index"),
+    fbInLink: t("index.Footer_InLink_Index"),
+};
+const activitiesAlt = {
+    event: t("index.Event_Image_Alt"),
+    moderator: t("index.Moderator_Image_Alt"),
+    radio: t("index.Radio_Image_Alt"),
+};
+const activitiesContent = {
+    organiser: t("index.Organiser_title"),
+    moderator: t("index.Moderator_title"),
+    radio: t("index.Radio_title"),
+};
+const ActivitiesUrls = {
+    pasakumuUrl: t("index.Pasakumu_Url"),
+    moderatorUrl: t("index.Moderator_Url"),
+    radioUrl: t("index.Radio_Url"),
+};
+---
+
+<Layout
+  footerInfo={footerInfo}
+  headerInfo={"/"}
+  description={t("index.Meta_Desc")}
+  title={t("index.Meta_Title")}
+>
+  <div class="page page--home">
+    <Hero type="home" info={heroInfo} />
+    <Overview activitiesAlt={activitiesAlt} />
+    <Clients title={t("index.Home_Clients_Title")} />
+    <Activities
+      title={t("index.Home_Activieties_Title")}
+      content={activitiesContent}
+      activitiesAlt={activitiesAlt}
+      urls={ActivitiesUrls}
+      anchorName={t("index.Anchor_Name")}
+    />
+  </div>
+</Layout>

@@ -1,0 +1,164 @@
+{
+  "index": {
+    "Page_Name_For_Title_Home": "Pasākuma vadītājs klātienē un tiešsaistē",
+    "Meta_Title": "Artis Ozoliņš",
+    "Meta_Key": "Pasākumu vadītājs, Diskusiju moderators, Kāzu vadītājs",
+    "Meta_Desc": "Vadu dažāda veida pasākumus – gan klātienē, gan online, sākot no korporatīvajiem līdz izklaides, latviski un angliski. Improvizācijas teātris un radio raidījuma vadīšana man devusi spēju arī moderēt dažāda veida diskusijas un iedegt dzirksteles cilvēku acīs, vadot kāzas.",
+    "Meta_Url": "https://www.artisozolins.lv",
+    "Twitter_Author": "Artis Ozoliņš",
+    "Arrow_Title": "Sazinies ar mani!",
+    "Home_Icon_Href": "/#darbibas-jomas",
+    "Anchor_Name": "darbibas-jomas",
+
+    "Home_Hero_Title": "Artis Ozoliņš",
+    "Home_Hero_Subtitle": "Pasākumu vadītājs klātienē un online",
+    "Home_Hero_Content": "<p>Vadu dažāda veida pasākumus – gan klātienē, gan online, sākot no korporatīvajiem līdz izklaides latviski un angliski. Improvizācijas teātris un regulāra radio raidījuma vadīšana man devusi spēju arī moderēt dažāda veida diskusijas un iedegt dzirksteles cilvēku acīs. Man ir svarīgi, lai pasākumi ir izdevušies un visi ir priecīgi, jo skaistākais pasākumu vadīšanā ir pozitīvo emociju apmaiņa. Tāpēc katram pasākumam pieeju individuāli un nopietni gatavojos, lai sniegtu kvalitatīvu performanci. Droši raksti vai zvani man! Priecāšos būt Tava pasākuma vadītājs.</p>",
+
+    "Hero_Title": "Artis Ozolins",
+    "Hero_Phone": "+371 26179051",
+    "Hero_Emai": "vaditajs@artisozolins.lv",
+    "Hero_Messenger_Page_Url": "https://m.me/artis.ozolins",
+
+    "Organiser_title": "Pasākumu vadītājs",
+    "Moderator_title": "Diskusiju moderators",
+    "Radio_title": "Radio personība",
+
+    "Home_Clients_Title": "Klienti",
+    "Home_Activieties_Title": "Darbības jomas",
+
+    "Footer_Title_Index": "Artis Ozoliņš",
+    "Footer_Phone_Index": "+371 26179051",
+    "Footer_Email_Index": "vaditajs@artisozolins.lv",
+    "Footer_FbLink_Index": "https://www.facebook.com/artis.ozolins",
+    "Footer_InLink_Index": "https://www.linkedin.com/in/artis-ozolins/",
+
+    "Event_Image_Alt": "Event Host",
+    "Moderator_Image_Alt": "Moderator",
+    "Radio_Image_Alt": "Radio Personality",
+
+    "Review_FaceBook_Button_Title": "Pajautāt atsauksmi kopīgam draugam",
+
+    "Pasakumu_Url": "/artis-astro/pasakumu-vaditajs",
+    "Moderator_Url": "/artis-astro/diskusiju-moderators",
+    "Radio_Url": "/artis-astro/radio-personiba"
+  },
+  "moderator": {
+    "Page_Name_For_Title": "Moderators",
+    "Meta_Title": "Artis Ozoliņš",
+    "Meta_Key": "Pasākumu vadītājs, Diskusiju moderators, Kāzu vadītājs",
+    "Meta_Desc": "Vadu dažāda veida pasākumus – sākot no korporatīvajiem līdz izklaides, gan lielus, gan mazus, latviski un angliski. Improvizācijas teātris un radio raidījuma vadīšana man devusi spēju arī moderēt dažāda veida diskusijas un iedegt dzirksteles cilvēku acīs, vadot kāzas.",
+    "Meta_Url": "https://www.artisozolins.lv",
+    "Twitter_Author": "Artis Ozoliņš",
+
+    "Moderator_Hero_Title": "Artis Ozoliņš",
+    "Moderator_Hero_Subtitle": "Moderators",
+    "Moderator_Hero_Content": "<p>Diskusijas veidoju kopā ar klientu, gan iekļaujoties jau piedāvātajā konceptā, gan liekot galdā savas idejas. Vadu kā latviešu, tā angļu valodā. Gan klātienē, gan tiešsaistē no savas profesionālās mājas studijas vai izbraukumā. Darbs sabiedriskajās attiecībās devis spēju iedziļināties dažādu nozaru jautājumos, improvizācijas teātris – reaģēt zibenīgi, savukārt radio ēters – veidot sarunu ar partneriem.</p>",
+    "Moderator_Hero_Info": {
+      "title": "Artis Ozoliņš",
+      "phone": "+371 26179051",
+      "emai": "vaditajs@artisozolins.lv",
+      "messengerPageUrl": "https://m.me/artis.ozolins"
+    },
+    "Background_Image_Alt": "Moderators",
+
+    "Article_1_Title": "Diskusija par elektrisko skrejriteņu drošu integrēšanu satiksmē",
+    "Article_1_Content": "<p>Jaunas un jaudīgas nozares uzrāvienā būtisks ir cilvēkam draudzīgs likums. Jautrība vs. drošība, ierobežojums vs. bizness, 10 līdzīgi un atšķirīgi viedokļi. Šo apkopojot ar prasmīgu moderēšanu, top sarunas un secinājumi, kas kalpo kā kārtīgs pamats nozares tālākai sekmīgai attīstībai.</p>",
+    "Article_1_Image_Alt": "Diskusija par elektrisko skrejriteņu drošu integrēšanu satiksmē",
+
+    "Article_2_Title": "Diskusija “Ēnu ekonomikas indekss Latvijas būvniecībā 2015 – 2019”",
+    "Article_2_Content": "<p>Vienā no jaudīgākajām nozarēm Latvijā – būvniecībā – ēnu ekonomikas izskaušana ir viens no stūrakmeņiem, par ko vienuviet hibrīda pasākumā klātienes studijā un attālināti tiešsaistē pulcējās runāt simtiem nozares speciālistu. Sarunas veidošana un uzturēšana starp klātienes un Zoom platformā pieslēgtajiem izdevās sekmīgi, nodrošinot skatītājiem nepārtrauktu un organisku diskusijas baudīšanas pieredzi.</p>",
+    "Article_2_Image_Alt": "Diskusija “Ēnu ekonomikas indekss Latvijas būvniecībā 2015 – 2019”",
+
+    "Article_3_Title": "DELFI media LAB diskusija: Baltic Digital Media Landscape",
+    "Article_3_Content": "<p>Hanzas peronā tandēmā ar Lydia Oyeniyi tika aizvadīta saturiski bagātīga diena uz mediju skatuves. No meditācijas kopā ar mūku līdz prezentācijām un diskusijām. Vadīt pārī bija patīkama pieredze, kas ļāva apvienot strukturētu pasākuma vadīšanu ar <i>stand-up</i> komiķes piešķilto šarmu. Un dienas beigās atlocīju piedurknes, lai ienirtu augsta līmeņa diskusijas vadībā par Baltijas digitālo mediju attīstību.</p>",
+    "Article_3_Image_Alt": "DELFI media LAB diskusija: Baltic Digital Media Landscape",
+
+    "Review_1_Title": "Jānis Andžāns",
+    "Review_1_Position": "Nords Porter Novelli Stratēģiskais Direktors",
+    "Review_1_Event": "Publiska diskusija par elektriskajiem skrejriteņiem",
+    "Review_1_Content": "<p>Organizējām klientiem publisku diskusiju par elektriskajiem skrejriteņiem, lai radītu pamatu tālākai sarunai par izmaiņām atbilstošajā normatīvajā regulējumā. Diskusijā piedalījās pārstāvji gan no valsts, gan nevalstiskā, gan arī privātā sektora. Sadarbību ar Arti, kurš bija šīs diskusijas moderators, vērtēju pozitīvi, jo viņa pieredze darbā radio un publiskās uzstāšanās spējas ļāva sasniegt diskusijā definētos saturiskos mērķus. Kas ne mazāk būtiski – mēs, kā pakalpojuma ņēmēji, augsti novērtējām to, ka Artis, gatavojoties diskusijai, tās jautājumā iedziļinājās pēc būtības un sniedza savu redzējumu par tās norises formātu un saturu.</p>",
+    "Review_1_Image_Alt": "Jānis Andžāns",
+
+    "Review_2_Title": "Anete Ugaine",
+    "Review_2_Position": "Latvijas Būvuzņēmēju partnerības sabiedrisko attiecību speciāliste",
+    "Review_2_Event": "Konference par būvniecības izmaksām",
+    "Review_2_Content": "<p>Ar Arti sadarbojāmies, organizējot konferenci par būvniecības izmaksām. Viena no galvenajām izdošanās atslēgām bija mērķtiecīgi un gudri virzītā pasākuma norise un patiesi auglīgās un interesantās ekspertu diskusijas. Tas nebūtu bijis iespējams bez Arta rūpīgas iedziļināšanās konferences nebūt ne vienkāršajā saturā, lai būvniecības nozares gana izaicinošajos tematos spētu navigēt kā īsts šīs jomas profesionālis. Turklāt liels pluss ir arī Arta humora izjūta un nepiespiestais moderēšanas stils, kas palīdz mobilizēt arī mazāk ieinteresēto klausītāju uzmanību.</p>",
+    "Review_2_Image_Alt": "Anete Ugaine",
+
+    "Review_FaceBook_Button_Title": "Pajautāt atsauksmi kopīgam draugam"
+  },
+  "pasakumu": {
+    "Page_Name_For_Title": "Pasākumu vadītājs",
+    "Meta_Title": "Artis Ozoliņš",
+    "Meta_Key": "Pasākumu vadītājs, Diskusiju moderators, Kāzu vadītājs",
+    "Meta_Desc": "Vadu dažāda veida pasākumus – sākot no korporatīvajiem līdz izklaides, gan lielus, gan mazus, latviski un angliski. Improvizācijas teātris un radio raidījuma vadīšana man devusi spēju arī moderēt dažāda veida diskusijas un iedegt dzirksteles cilvēku acīs, vadot kāzas.",
+    "Meta_Url": "https://www.artisozolins.lv",
+    "Twitter_Author": "Artis Ozoliņš",
+
+    "Organiser_Hero_Title": "Artis Ozoliņš",
+    "Organiser_Hero_Subtitle": "Pasākumu vadītājs klātienē un tiešsaistē",
+    "Organiser_Hero_Content": "<p>Pasākumu vadīšana ir mana profesionālā sirdslieta, kas liek acīm iemirdzēties. Pirms pasākuma būtiski ir labi sagatavoties kopā ar klientu - varu arī palīdzēt pašā pasākuma tapšanā, liekot lietā plašo sabiedrisko attiecību konsultanta pieredzi. Vadu gan tiešsaistē, gan klātienē. Latviski un angliski. Profesionāli augu katru nedēļu, vadot radio raidījumu #DigitālāsBrokastis Latvijas Radio 1 un Radio NABA, kā arī esmu guvis vērtīgu pieredzi runas treniņos radio profesionāļu vadībā. Noder arī iepriekš apgūtās iemaņas improvizācijas teātrī.</p>",
+    "Organiser_Hero_Info": {
+      "title": "Artis Ozoliņš",
+      "phone": "+371 26179051",
+      "emai": "vaditajs@artisozolins.lv",
+      "messengerPageUrl": "https://m.me/artis.ozolins"
+    },
+    "Background_Image_Alt": "Pasākumu vadītājs klātienē un tiešsaistē",
+
+    "Article_1_Title": "Deep Tech Atelier",
+    "Article_1_Content": "<p>Deep Tech Atelier ir vērienīgākā zinātnes komercializācijai veltītā konference Baltijā, kurā var uzzināt par pasaules inovāciju tendencēm, atklājumiem, biznesa iespējām, mācīties no citu pieredzes un labākās prakses. Man atkārtoti bijis tas pagodinājums vadīt Latvijas Investīciju un attīstības aģentūras organizēto konferenci angļu valodā vairāku dienu garumā kā tiešsaistes, tā klātienes skatītāju priekam.</p>",
+    "Article_1_Image_Alt": "Deep Tech Atelier",
+
+    "Article_2_Title": "The Ignition Events",
+    "Article_2_Content": "<p>Trīs dienu garumā hibrīda pasākumā gan attālināti, gan klātienē Komercializācijas reaktors atkārtoti pulcējis vairāk nekā 100 uzņēmējus un zinātniekus no visas pasaules, lai tie kopā kaldinātu savas prasmes un zināšanas jaunu uzņēmumu dibināšanai. Kā pasākumu vadītājs vairāku gadu garumā gan pieteicu runātājus, gan moderēju pasākumu tehniski, kā arī vadīju <i>pitch</i> prezentācijas investoriem – viss angļu valodā un ciešā sadarbībā ar lielisku organizatoru komandu.</p>",
+    "Article_2_Image_Alt": "The Ignition Events",
+
+    "Article_3_Title": "Jaunrades festivāls iNOVUSS",
+    "Article_3_Content": "<p>Lucavsalas pludmalē divu dienu laikā tika uzburts košs inovāciju festivāls, kas nepiespiestā gaisotnē pulcēja tūkstošiem zinošo un zinātkāro. Cīņa starp dažādajām skatuvēm bija sīva, kas lika mesties ārā un uzrunāt garāmgājējus pievienoties tieši manai teltij. Latviešu un angļu valodā aizvadījām gan prezentācijas, gan diskusijas, gan praktiskas darbnīcas. Aizraujošs darbs divu dienu garumā, kas uzlādēja ar pozitīvām emocijām visus klātesošos!</p>",
+    "Article_3_Image_Alt": "Jaunrades festivāls iNOVUSS",
+
+    "Review_1_Title": "Elita Apīne",
+    "Review_1_Position": "RR-Agency projektu vadītāja",
+    "Review_1_Event": "3. Eiropas Fizikas Olimpiāde",
+    "Review_1_Content": "<p>Vēlos pateikt paldies par sadarbību 3. Eiropas Fizikas Olimpiādes ietvaros. Atklāšanas un apbalvošanas pasākumi tika papildināti ar jauku, vieglu humoru un perfektām angļu valodas prasmēm. Iespaids, ko Artis atstāja, liecina par pieredzi un profesionalitāti.</p>",
+    "Review_1_Image_Alt": "Elita Apīne",
+
+    "Review_2_Title": "Santa Zunda",
+    "Review_2_Position": "nodibinājuma “Rīgas Tehniskās universitātes Attīstības fonds” izpilddirektora vietniece",
+    "Review_2_Event": "IT jomas studentu stipendiju konkurss",
+    "Review_2_Content": "<p>2016. gadā pirmo reizi uzņēmāmies organizēt IT jomas studentu stipendiju konkursu, kuram ierasti bijis arī svinīgs apbalvošanas pasākums. Tā kā pirmajā gadā laiks pasākuma organizēšanai bija ļoti maz, laiks meklēt alternatīvas nebija un iepriekšējie organizatori ieteica Arti kā pasākuma vadītāju, operatīvi vienojāmies par sadarbību. Artis ne vien iesaistījās un sniedza komentārus scenārija sagatavošanai, bet arī iedziļinājās katrā uzvarētāja noslēguma darbā, to rūpīgi izlasot, un sagatavoja jautājumus studentiem un auditorijai, ko šīs nozares nezinātāji noteikti nevarētu (jāpiebilst, ka Arta pamatizglītība ir IT jomā). Artis spēj ļoti profesionāli reaģēt arī uz iepriekš neplānotām situācijām un uzturēt publikas uzmanību. Arī šogad sadarbosimies iepriekš minētā konkursa apbalvošanā un noteikti iesaku sadarbību citiem!</p>",
+    "Review_2_Image_Alt": "Santa Zunda",
+
+    "Review_FaceBook_Button_Title": "Pajautāt atsauksmi kopīgam draugam"
+  },
+  "radio": {
+    "Page_Name_For_Title": "Radio personība",
+    "Meta_Title": "Artis Ozoliņš",
+    "Meta_Key": "Pasākumu vadītājs, Diskusiju moderators, Radio personība",
+    "Meta_Desc": "Vadu dažāda veida pasākumus – sākot no korporatīvajiem līdz izklaides, gan lielus, gan mazus, latviski un angliski. Improvizācijas teātris un radio raidījuma vadīšana man devusi spēju arī moderēt dažāda veida diskusijas un iedegt dzirksteles cilvēku acīs, vadot kāzas.Radio personība.",
+    "Meta_Url": "https://www.artisozolins.lv",
+    "Twitter_Author": "Artis Ozoliņš",
+
+    "Radio_Hero_Title": "Artis Ozoliņš",
+    "Radio_Hero_Subtitle": "Radio ētera personība",
+    "Radio_Hero_Content": "<p>Katru piektdienas rītu <a href='https://lr1.lsm.lv/lv/lr1/raidijumi/digitalas-brokastis/' target='_blank' rel='noopener noreferrer'>Latvijas Radio 1</a> un <a href='https://naba.lsm.lv/lv/naba/raidjumi/digitalas-brokastis/' target='_blank' rel='noopener noreferrer'>Radio Naba</a> un pēc tam ierakstu formātā <a href='https://www.youtube.com/playlist?list=PLR2yUDK6PMAgxPZt6xXQSH8aLi3RyH1kV' target='_blank' rel='noopener noreferrer'>Latvijas Radio YouTube kanālā</a> un populārākajās <a href='https://open.spotify.com/show/3nyjEgRPqFf9ngfxmnZyQs' target='_blank' rel='noopener noreferrer'>podkāstu platformās</a> kopā ar tehnoloģiju gurmānu Rihardu Blesi priecējam klausītājus ar jaunākajiem tehnoloģiju notikumiem, būtiskām sarunām un gadžetu apskatiem. Fantastiska iknedēļas pieredze, uzturot tonusā sarunas vadības prasmes, kas slīpētas arī pie Latvijas Radio runas trenerēm Zanes Daudziņas un Rutas Vītiņas.</p>",
+    "Radio_Hero_Info": {
+      "title": "Artis Ozoliņš",
+      "phone": "+371 26179051",
+      "emai": "vaditajs@artisozolins.lv",
+      "messengerPageUrl": "https://m.me/artis.ozolins"
+    },
+
+    "Background_Image_Alt": "Radio ētera personība",
+
+    "Article_1_Title": "Digitālās brokastis",
+    "Article_1_Content": "<p>Digitālās brokastis ir tehnoloģiju dzīvesstila raidījums, podkāsts un YouTube šovs, kurā vienkāršā valodā stāsta par sarežģīto tehnoloģiju pasauli. Raidījumā katru nedēļu pasniedzam subjektīvi objektīvo tehnoloģiju ziņu topu, izvērtējam dažādas ierīces, kā arī intervējam ekspertus par aktuālo tehnoloģiju pasaulē. Raidījums ir dzirdams piektdienu rītos Latvijas Radio 1 un Latvijas Radio 6 – Radio NABA frekvencēs no plkst. 10.05 līdz 11.00 un pēc tam podkāsta formātā populārākajās podkāstu platformās, Latvijas Radio lietotnē, arhīvā un YouTube kanālā. Atsevišķas sērijas pieejamas arī portāla <a href='https://www.delfi.lv/podkasti/digitalas-brokastis/' target='_blank' rel='noopener noreferrer'>Delfi.lv podkāstu sadaļā</a>. Ar katras sērijas ziņu topu var iepazīties arī <a href='https://www.lsm.lv/autors/artis-ozolins/' target='_blank' rel='noopener noreferrer'>Latvijas Sabiedrisko mediju portālā</a>.</p>",
+    "Article_1_Image_Alt": "Discussion on electric scooter integration into traffic safely",
+
+    "Article_2_Title": "Nabarīts",
+    "Article_2_Content": "<p>No 2015. līdz 2021. gadam Radio NABA ēterā piektdienu rītos veidojām rīta raidījumu Nabarīts, izklaidējot klausītājus ar vieglu, bezrūpīgu, humoristisku saturu par aktuāliem un ļoti aktuāliem, vispasaulīgiem un ikdienišķiem jautājumiem. Ēteru bija tas prieks dalīt gan ar Mārtiņu “Kozmenu” Kozlovski, Gati “Putnu” Cīruli, DJ Kozy jeb Jāni Kozlovski un DJ Koknesi jeb Rihardu Blesi. Piektdienas Nabarīts ir arī raidījums, kurā pirmo reizi iepazīstinājām klausītāju ar tehnoloģiju rubriku Digitālās brokastis. Nabarīta otrajā daļā sveicām jubilārus un tās dienas svētku svinētājus, apskatījām dienu no vēsturiskā nozīmīguma perspektīvas un aizvadījām saturīgi vieglas sarunas par dažnedažādām tēmām.</p>",
+    "Article_2_Image_Alt": "Discussion on electric scooter integration into traffic safely",
+    "Review_FaceBook_Button_Title": "Pajautāt atsauksmi kopīgam draugam"
+  }
+}

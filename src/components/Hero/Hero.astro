@@ -1,0 +1,62 @@
+---
+import React from "preact";
+import InfoTool from "../InfoTool/InfoTool";
+import HomeIcon from "../Icon/HomeIcon";
+import "~styles/style.scss";
+const {type, info, image} = Astro.props;
+---
+
+{type === "home" ? (
+      <div class="hero">
+        <HomeIcon homeIconHref={info.homeIconHref} />
+        <div class="hero__box">
+          {info.desc !== "" && <InfoTool client:load content={info} />}
+          <div class="wrapper">
+            <div class="hero__wrap">
+              <h3 class="hero__subtitle">{info.subtitle}</h3>
+              <h2 class="hero__title">{info.title}</h2>
+              
+              <div
+                class="hero__content"
+                set:html={`<span>${info.content}</span>`}
+              ></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    ) : (
+      <div class="hero">
+        <!-- <div class="hero__bg" style={{'background-image': 'url(' +info.background + ')'}}></div> -->
+        <div
+          class="hero__bg"
+          style={{
+            backgroundImage: `url(${image})`,
+          }}
+        ></div>
+        <!-- <picture class="hero__image">
+          <img
+            src={image}
+            alt={info.background}
+          ></img>
+        </picture> -->
+
+        <HomeIcon homeIconHref={info.homeIconHref} />
+        <div class="hero__box">
+          {info.desc !== "" && <InfoTool client:load content={info}/>}
+          <div class="wrapper">
+            <div class="hero__wrap">
+              <h3 class="hero__subtitle">{info.subtitle}</h3>
+              <h2 class="hero__title">{info.title}</h2>
+              <div
+                class="hero__content"
+                set:html={`<span>${info.content}</span>`}
+              ></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    )}
+
+
+
+    
