@@ -10,71 +10,71 @@ import Button from "../components/Button/Button";
 changeLanguage("lv");
 
 const footerInfo = {
-  title: t("index.Footer_Title_Index"),
-  phone: t("index.Footer_Phone_Index"),
-  email: t("index.Footer_Email_Index"),
-  fbLink: t("index.Footer_FbLink_Index"),
-  fbInLink: t("index.Footer_InLink_Index"),
+    title: t("index.Footer_Title_Index"),
+    phone: t("index.Footer_Phone_Index"),
+    email: t("index.Footer_Email_Index"),
+    fbLink: t("index.Footer_FbLink_Index"),
+    fbInLink: t("index.Footer_InLink_Index"),
 };
 const reviewFbBtn = {
-  title: t("index.Review_FaceBook_Button_Title"),
-  target: "_blank",
-  link: "https://www.facebook.com/artis.ozolins/friends?lst=100000075771612%3A1421011988%3A1560273788&source_ref=pb_friends_tl",
-  class: "button--fb",
-  icon: "fb-icon",
+    title: t("index.Review_FaceBook_Button_Title"),
+    target: "_blank",
+    link: "https://www.facebook.com/artis.ozolins/friends?lst=100000075771612%3A1421011988%3A1560273788&source_ref=pb_friends_tl",
+    class: "button--fb",
+    icon: "fb-icon",
 };
 const articlesImagesAlt = [t("Article_1_Image_Alt"), t("Article_2_Image_Alt")];
 const heroInfo = {
-  subtitle: t("pasakumu.Organiser_Hero_Subtitle"),
-  title: t("pasakumu.Organiser_Hero_Title"),
-  content: t("pasakumu.Organiser_Hero_Content"),
-  heroTitle: t("pasakumu.Hero_title"),
-  heroPhone: t("index.Hero_Phone"),
-  heroEmail: t("index.Hero_Emai"),
-  heroMessengerPageUrl: t("index.Hero_Messenger_Page_Url"),
-  background: t("pasakumu.Background_Image_Alt"),
-  arrowTitle: t("index.Arrow_Title"),
-  homeIconHref: t("index.Home_Icon_Href"),
+    subtitle: t("pasakumu.Organiser_Hero_Subtitle"),
+    title: t("pasakumu.Organiser_Hero_Title"),
+    content: t("pasakumu.Organiser_Hero_Content"),
+    heroTitle: t("pasakumu.Hero_title"),
+    heroPhone: t("index.Hero_Phone"),
+    heroEmail: t("index.Hero_Emai"),
+    heroMessengerPageUrl: t("index.Hero_Messenger_Page_Url"),
+    background: t("pasakumu.Background_Image_Alt"),
+    arrowTitle: t("index.Arrow_Title"),
+    homeIconHref: t("index.Home_Icon_Href"),
 };
 const articles = [
-  {
-    item: "/artis-astro/assets/images/DTA.jpeg",
-    type: "image",
-    title: t("pasakumu.Article_1_Title"),
-    content: t("pasakumu.Article_1_Content"),
-  },
-  {
-    item: "/artis-astro/assets/images/eventIgnition.jpg",
-    type: "image",
-    title: t("pasakumu.Article_2_Title"),
-    content: t("pasakumu.Article_2_Content"),
-  },
-  {
-    item: "/artis-astro/assets/images/event-inovuss.jpg",
-    type: "image",
-    title: t("pasakumu.Article_3_Title"),
-    content: t("pasakumu.Article_3_Content"),
-  },
+    {
+        item: "/assets/images/DTA.jpeg",
+        type: "image",
+        title: t("pasakumu.Article_1_Title"),
+        content: t("pasakumu.Article_1_Content"),
+    },
+    {
+        item: "/assets/images/eventIgnition.jpg",
+        type: "image",
+        title: t("pasakumu.Article_2_Title"),
+        content: t("pasakumu.Article_2_Content"),
+    },
+    {
+        item: "/assets/images/event-inovuss.jpg",
+        type: "image",
+        title: t("pasakumu.Article_3_Title"),
+        content: t("pasakumu.Article_3_Content"),
+    },
 ];
 const reviews = [
-  {
-    name: t("pasakumu.Review_1_Title"),
-    position: t("pasakumu.Review_1_Position"),
-    event: t("pasakumu.Review_1_Event"),
-    content: t("pasakumu.Review_1_Content"),
-    image: "/artis-astro/assets/images/elita-apine.jpg",
-  },
-  {
-    name: t("pasakumu.Review_2_Title"),
-    position: t("pasakumu.Review_2_Position"),
-    event: t("pasakumu.Review_2_Event"),
-    content: t("pasakumu.Review_2_Content"),
-    image: "/artis-astro/assets/images/santa-zunda.jpg",
-  },
+    {
+        name: t("pasakumu.Review_1_Title"),
+        position: t("pasakumu.Review_1_Position"),
+        event: t("pasakumu.Review_1_Event"),
+        content: t("pasakumu.Review_1_Content"),
+        image: "/assets/images/elita-apine.jpg",
+    },
+    {
+        name: t("pasakumu.Review_2_Title"),
+        position: t("pasakumu.Review_2_Position"),
+        event: t("pasakumu.Review_2_Event"),
+        content: t("pasakumu.Review_2_Content"),
+        image: "/assets/images/santa-zunda.jpg",
+    },
 ];
 const reviewesImagesAlt = [
-  t("pasakumu.Review_1_Image_Alt"),
-  t("pasakumu.Review_2_Image_Alt"),
+    t("pasakumu.Review_1_Image_Alt"),
+    t("pasakumu.Review_2_Image_Alt"),
 ];
 ---
 
@@ -83,7 +83,7 @@ const reviewesImagesAlt = [
     <Hero
       type="wedding"
       info={heroInfo}
-      image={"/artis-astro/assets/images/pasakuma-vaditajs-hero-2021.jpg"}
+      image={"/assets/images/pasakuma-vaditajs-hero-2021.jpg"}
     />
     <div class="page__articles">
       <ArticleCard article={articles} imagesAlt={articlesImagesAlt} />

@@ -67,7 +67,7 @@ const InfoTool = (props) => {
           <p className="info-tool__show-text">{arrowTitle}</p>
           <img
             className="info-tool__show-icon"
-            src={"/artis-astro/assets/images/svg/icon-target.svg"}
+            src={"/assets/images/svg/icon-target.svg"}
             alt="Spinned arrow"
           />
         </div>
@@ -78,14 +78,8 @@ const InfoTool = (props) => {
             onKeyDown={toggleInfoBox}
             role="presentation"
           >
-            <img
-              src={"/artis-astro/assets/images/svg/icon-phone.svg"}
-              alt="Phone icon"
-            />
-            <img
-              src={"/artis-astro/assets/images/svg/icon-email.svg"}
-              alt="Email icon"
-            />
+            <img src={"/assets/images/svg/icon-phone.svg"} alt="Phone icon" />
+            <img src={"/assets/images/svg/icon-email.svg"} alt="Email icon" />
           </div>
           <div className="info-tool__info-content">
             <h4 className="info-tool__info-title">{info.title}</h4>
@@ -102,7 +96,7 @@ const InfoTool = (props) => {
             <img
               role="presentation"
               className="info-tool__info-arrow"
-              src={"/artis-astro/assets/images/svg/icon-arrow--small.svg"}
+              src={"/assets/images/svg/icon-arrow--small.svg"}
               alt="Right arrow icon"
               onClick={toggleInfoBox}
               onKeyDown={toggleInfoBox}

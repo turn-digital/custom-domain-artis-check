@@ -35,7 +35,7 @@ const ArticleImage = (props) => {
           <span>
             <picture>
               <img
-                src={"/artis-astro/assets/images/svg/pattern-line.svg"}
+                src={"/assets/images/svg/pattern-line.svg"}
                 alt="Pattern line"
               />
             </picture>

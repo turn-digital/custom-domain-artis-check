@@ -38,9 +38,9 @@
 
     "Review_FaceBook_Button_Title": "Pajautāt atsauksmi kopīgam draugam",
 
-    "Pasakumu_Url": "/artis-astro/pasakumu-vaditajs",
-    "Moderator_Url": "/artis-astro/diskusiju-moderators",
-    "Radio_Url": "/artis-astro/radio-personiba"
+    "Pasakumu_Url": "/pasakumu-vaditajs",
+    "Moderator_Url": "/diskusiju-moderators",
+    "Radio_Url": "/radio-personiba"
   },
   "moderator": {
     "Page_Name_For_Title": "Moderators",

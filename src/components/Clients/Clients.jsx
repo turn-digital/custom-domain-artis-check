@@ -9,51 +9,33 @@ const Clients = (props) => {
         <div className="clients__list">
           <div className="clients__img">
             <img
-              src="/artis-astro/assets/images/svg/logo-facebook.svg"
+              src="/assets/images/svg/logo-facebook.svg"
               alt="Facebook logo"
             />
           </div>
           <div className="clients__img">
-            <img
-              src="/artis-astro/assets/images/svg/logo-lbp.svg"
-              alt="LBP logo"
-            />
+            <img src="/assets/images/svg/logo-lbp.svg" alt="LBP logo" />
+          </div>
+          <div className="clients__img">
+            <img src="/assets/images/svg/logo-lu.svg" alt="LU logo" />
           </div>
           <div className="clients__img">
             <img
-              src="/artis-astro/assets/images/svg/logo-lu.svg"
-              alt="LU logo"
-            />
-          </div>
-          <div className="clients__img">
-            <img
-              src="/artis-astro/assets/images/svg/ideju-instituts-logo.svg"
+              src="/assets/images/svg/ideju-instituts-logo.svg"
               alt="Ideju institūta logo"
             />
           </div>
           <div className="clients__img">
-            <img
-              src="/artis-astro/assets/images/svg/golin-logo.svg"
-              alt="Golin logo"
-            />
+            <img src="/assets/images/svg/golin-logo.svg" alt="Golin logo" />
           </div>
           <div className="clients__img">
-            <img
-              src="/artis-astro/assets/images/svg/logo-rtu.svg"
-              alt="RTU logo"
-            />
+            <img src="/assets/images/svg/logo-rtu.svg" alt="RTU logo" />
           </div>
           <div className="clients__img">
-            <img
-              src="/artis-astro/assets/images/svg/liaa-logo.svg"
-              alt="LIAA logo"
-            />
+            <img src="/assets/images/svg/liaa-logo.svg" alt="LIAA logo" />
           </div>
           <div className="clients__img">
-            <img
-              src="/artis-astro/assets/images/svg/Tet_logo.svg"
-              alt="TET logo"
-            />
+            <img src="/assets/images/svg/Tet_logo.svg" alt="TET logo" />
           </div>
         </div>
       </div>

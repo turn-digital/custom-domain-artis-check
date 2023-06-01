@@ -3,7 +3,7 @@ import React from "preact";
 
 const HomeIcon = ({ homeIconHref }) => {
   return (
-    <a className="home" href={`/artis-astro${homeIconHref}`}>
+    <a className="home" href={`${homeIconHref}`}>
       <svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 33">
         <g fill="none" stroke="#f3f3f3">
           <path

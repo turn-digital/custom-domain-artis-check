@@ -9,7 +9,7 @@ const OverviewBlock = (activitiesAlt) => {
           <li className="overview__item">
             <div className="overview__image">
               <img
-                src="/artis-astro/assets/images/sakums-parskats-1.jpg"
+                src="/assets/images/sakums-parskats-1.jpg"
                 alt={event}
                 placeholder="blurred"
               />
@@ -18,7 +18,7 @@ const OverviewBlock = (activitiesAlt) => {
           <li className="overview__item">
             <div className="overview__image">
               <img
-                src="/artis-astro/assets/images/moderators.jpg"
+                src="/assets/images/moderators.jpg"
                 alt={moderator}
                 placeholder="blurred"
               />
@@ -27,7 +27,7 @@ const OverviewBlock = (activitiesAlt) => {
           <li className="overview__item">
             <div className="overview__image">
               <img
-                src="/artis-astro/assets/images/kazu-vaditajs-hero.jpg"
+                src="/assets/images/kazu-vaditajs-hero.jpg"
                 alt={radio}
                 placeholder="blurred"
               />
