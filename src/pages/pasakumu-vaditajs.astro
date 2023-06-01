@@ -78,7 +78,13 @@ const reviewesImagesAlt = [
 ];
 ---
 
-<Layout footerInfo={footerInfo} headerInfo={"/pasakumu-vaditajs"}>
+<Layout
+  footerInfo={footerInfo}
+  headerInfo={"/pasakumu-vaditajs"}
+  htmlLang={t("index.htmlLang")}
+  description={t("pasakumu.Meta_Desc")}
+  title={t("pasakumu.Meta_Title")}
+>
   <div class="page page--wedding">
     <Hero
       type="wedding"

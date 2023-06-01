@@ -54,7 +54,13 @@ const articles = [
 ];
 ---
 
-<Layout footerInfo={footerInfo} headerInfo={"/radio-personiba"}>
+<Layout
+  footerInfo={footerInfo}
+  headerInfo={"/radio-personiba"}
+  htmlLang={t("index.htmlLang")}
+  description={t("radio.Meta_Desc")}
+  title={t("radio.Meta_Title")}
+>
   <div class="page page--wedding">
     <Hero
       type="wedding"

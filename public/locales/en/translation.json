@@ -40,7 +40,9 @@
 
     "Pasakumu_Url": "/en/pasakumu-vaditajs",
     "Moderator_Url": "/en/diskusiju-moderators",
-    "Radio_Url": "/en/radio-personiba"
+    "Radio_Url": "/en/radio-personiba",
+
+    "htmlLang": "en"
   },
   "moderator": {
     "Page_Name_For_Title": "Discussion Moderator",

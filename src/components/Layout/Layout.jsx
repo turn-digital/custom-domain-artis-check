@@ -4,10 +4,17 @@ import Footer from "../Footer/Footer";
 import "./layout.css";
 import "../../styles/style.scss";
 
-const Layout = ({ children, footerInfo, headerInfo, description, title }) => {
+const Layout = ({
+  children,
+  footerInfo,
+  headerInfo,
+  description,
+  title,
+  htmlLang,
+}) => {
   return (
     <>
-      <html lang="en">
+      <html lang={htmlLang}>
         <title>{title}</title>
         <meta name="description" content={description} />
         <meta name="viewport" content="width=device-width, initial-scale=1" />

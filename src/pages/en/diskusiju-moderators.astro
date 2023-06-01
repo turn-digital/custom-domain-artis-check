@@ -78,7 +78,13 @@ const reviewesImagesAlt = [
 ];
 ---
 
-<Layout footerInfo={footerInfo} headerInfo={"/diskusiju-moderators"}>
+<Layout
+  footerInfo={footerInfo}
+  headerInfo={"/diskusiju-moderators"}
+  htmlLang={t("index.htmlLang")}
+  description={t("moderator.Meta_Desc")}
+  title={t("moderator.Meta_Title")}
+>
   <div class="page page--wedding">
     <Hero
       type="wedding"
