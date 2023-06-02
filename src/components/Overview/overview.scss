@@ -1,26 +1,27 @@
 .overview {
-	&__image {
-		position: relative;
+  &__image {
+    position: relative;
 
-		&:before {
-			@include absolute-position;
-			z-index: 1;
-			background-color: rgba(25,20,69,0.33);
-			content: '';
-		}	
-		
-		img {
-			width: 100%;
-		}
-	}
+    &:before {
+      @include absolute-position;
+      z-index: 1;
+      background-color: rgba(25, 20, 69, 0.33);
+      content: "";
+    }
 
-	@media (min-width: $media-bp-tablet) {
-		&__list {
-			display: flex;
-		}
+    img {
+      width: 100%;
+      height: initial;
+    }
+  }
 
-		&__item {
-			width: 100%;
-		}
-	}
+  @media (min-width: $media-bp-tablet) {
+    &__list {
+      display: flex;
+    }
+
+    &__item {
+      width: 100%;
+    }
+  }
 }

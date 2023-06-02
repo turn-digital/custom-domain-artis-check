@@ -1,7 +1,6 @@
-.titlePadding{
+.titlePadding {
   padding-bottom: 32px;
 }
-
 
 .activities {
   padding: 24px 0 40px;
@@ -52,7 +51,7 @@
   &__image {
     position: relative;
     width: 180px;
-    height: 180px;
+    height: initial;
 
     &:before {
       position: absolute;
