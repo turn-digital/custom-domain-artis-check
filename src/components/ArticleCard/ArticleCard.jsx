@@ -19,7 +19,13 @@ const ArticleImage = (props) => {
     <div className="article-card__image">
       <div className="article-card__col">
         <picture>
-          <img className="article-card__img" src={fileSrc} alt={imageAlt} />
+          <img
+            className="article-card__img"
+            src={fileSrc}
+            alt={imageAlt}
+            width="100%"
+            height="initial"
+          />
         </picture>
         {authorTag ? <ArticleAuthor author={content.author} /> : ""}
       </div>
@@ -37,6 +43,8 @@ const ArticleImage = (props) => {
               <img
                 src={"/assets/images/svg/pattern-line.svg"}
                 alt="Pattern line"
+                width="100%"
+                height="initial"
               />
             </picture>
           </span>
@@ -66,7 +74,12 @@ const ArticleVideo = (props) => {
           {content.title}
           <span>
             <picture>
-              <img src={patternLine} alt="Pattern line" />
+              <img
+                src={patternLine}
+                alt="Pattern line"
+                width="100%"
+                height="initial"
+              />
             </picture>
           </span>
         </h3>
@@ -93,7 +106,12 @@ const ArticleSlider = (props) => {
           {content.title}
           <span>
             <picture>
-              <img src={patternLine} alt="Pattern line" />
+              <img
+                src={patternLine}
+                alt="Pattern line"
+                width="100%"
+                height="initial"
+              />
             </picture>
           </span>
         </h3>

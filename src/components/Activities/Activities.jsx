@@ -26,12 +26,16 @@ const OverviewBlock = ({ title, content, activitiesAlt, anchorName, urls }) => {
                 className="activities__image-blade"
                 src={"/assets/images/svg/pattern-round-blade.svg"}
                 alt="Svg pattern - grey circle"
+                width="100%"
+                height="initial"
               />
               <div className={`activities__image-tag pasakumu-vaditajs`}>
                 <img
                   src="/assets/images/pasakuma-vaditajs-hero.jpg"
                   alt={event}
                   placeholder="blurred"
+                  width="100%"
+                  height="initial"
                 />
               </div>
             </div>
@@ -54,12 +58,16 @@ const OverviewBlock = ({ title, content, activitiesAlt, anchorName, urls }) => {
                 className="activities__image-blade"
                 src={"/assets/images/svg/pattern-round-blade.svg"}
                 alt="Svg pattern - grey circle"
+                width="100%"
+                height="initial"
               />
               <div className={`activities__image-tag diskusiju-moderators`}>
                 <img
                   src="/assets/images/moderators.jpg"
                   alt={moderator}
                   placeholder="blurred"
+                  width="100%"
+                  height="initial"
                 />
               </div>
             </div>
@@ -82,12 +90,16 @@ const OverviewBlock = ({ title, content, activitiesAlt, anchorName, urls }) => {
                 className="activities__image-blade"
                 src={"/assets/images/svg/pattern-round-blade.svg"}
                 alt="Svg pattern - grey circle"
+                width="100%"
+                height="initial"
               />
               <div className={`activities__image-tag radio-personiba`}>
                 <img
                   src="/assets/images/radioHomePage.jpg"
                   alt={radio}
                   placeholder="blurred"
+                  width="100%"
+                  height="initial"
                 />
               </div>
             </div>
