@@ -12,6 +12,8 @@ const OverviewBlock = (activitiesAlt) => {
                 src="/assets/images/sakums-parskats-1.jpg"
                 alt={event}
                 placeholder="blurred"
+                height="40px"
+                width="40px"
               />
             </div>
           </li>
@@ -21,6 +23,8 @@ const OverviewBlock = (activitiesAlt) => {
                 src="/assets/images/moderators.jpg"
                 alt={moderator}
                 placeholder="blurred"
+                height="40px"
+                width="40px"
               />
             </div>
           </li>
@@ -30,6 +34,8 @@ const OverviewBlock = (activitiesAlt) => {
                 src="/assets/images/kazu-vaditajs-hero.jpg"
                 alt={radio}
                 placeholder="blurred"
+                height="40px"
+                width="40px"
               />
             </div>
           </li>
