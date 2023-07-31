@@ -18,6 +18,11 @@ const Layout = ({
         <title>{title}</title>
         <meta name="description" content={description} />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <script
+          defer
+          data-domain="artisozolins.lv"
+          src="https://plausible.io/js/script.js"
+        ></script>
         <link
           rel="apple-touch-icon"
           sizes="180x180"
